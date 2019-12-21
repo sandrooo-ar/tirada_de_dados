@@ -24,3 +24,9 @@ for e in diccionario:
     print(e + " ha sacado un " + str(diccionario[e]))
 
 print("\n El ganador es " + nombre_grande + " con un " + str(número_grande))
+
+xyz = 0
+
+while xyz == 0:
+    x = input("Pulsa enter para salir:  ")
+    xyz = 1
